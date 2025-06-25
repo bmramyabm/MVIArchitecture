@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVIAnimals</string>
+    <string name="fetch_animals">Fetch Animals</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_location">Animal Location</string>
+    <string name="todo">TODO</string>
+</resources>
